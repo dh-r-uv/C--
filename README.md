@@ -43,3 +43,6 @@ Contains all `.o` files required for final compilation.
 #### `condition.c`: Performs basic conditional operations that need to be run within `if(<operation>)`
 
 #### `NOTE`: Each `.c` file contains comments to further explain the working of the codes.
+
+##Future updates coming up
+####adding loops & nested loops
