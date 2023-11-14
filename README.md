@@ -44,5 +44,5 @@ Contains all `.o` files required for final compilation.
 
 #### `NOTE`: Each `.c` file contains comments to further explain the working of the codes.
 
-##Future updates coming up
-####adding loops & nested loops
+## Future updates coming up
+#### adding loops & nested loops
